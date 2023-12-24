@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{A90CA30D-A311-4C8C-AF9C-B4FBB6353D98}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EFBF06C9-1382-4573-865B-85C7481116B3" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ForgetMeNotSzymon" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ForgetMeNotSzymon PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EFBF06C9-1382-4573-865B-85C7481116B3" />
+</Properties>
